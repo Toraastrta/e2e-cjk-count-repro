@@ -1,0 +1,14 @@
+{
+  "name": "e2e-cjk-count-repro",
+  "version": "1.0.0",
+  "description": "Repro: e2e replay cache keeps CJK counts (42件) as anchors",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "e2e": "0.23.1"
+  },
+  "private": true,
+  "type": "module"
+}
